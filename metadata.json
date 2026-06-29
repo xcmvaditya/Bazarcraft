@@ -1,0 +1,6 @@
+{
+  "name": "BazaarCraft",
+  "description": "A premium and professional e-commerce application featuring a customer storefront and a merchant admin console, powered by Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
